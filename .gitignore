@@ -1,0 +1,9 @@
+# Locally built executable
+ballsim.exe
+
+# Editor and operating-system files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
